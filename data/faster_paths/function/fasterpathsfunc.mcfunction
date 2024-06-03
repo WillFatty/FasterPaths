@@ -1,1 +1,1 @@
-execute at @a run execute as @a run execute if block ~ ~-0.5 ~ minecraft:dirt_path run effect give @s minecraft:speed 3 0 true
+execute as @a if predicate faster_paths:blocks run effect give @s speed 3 0 true
