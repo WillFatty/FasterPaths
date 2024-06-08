@@ -1,1 +1,1 @@
-say FasterPaths Reloaded!!!
+say FasterPaths Reloaded!
